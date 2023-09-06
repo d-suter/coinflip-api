@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "result": "heads",
+      "timestampStart": 1694225071100,
+      "timestampEnd": 1694225073100,
+      "hash": "f2b123a9bc8bd3f994f995a0be2d49d85e9ed8b39181a8b103edf4c26d9f9e8a",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
+      "ip": "192.168.1.10",
+      "geolocation": {
+        "range": [2736783360, 2736784383],
+        "country": "US",
+        "region": "CA",
+        "city": "Los Angeles",
+        "ll": [34.053, -118.2642]
+      },
+      "protocol": "http",
+      "method": "GET",
+      "originalUrl": "/coinflip",
+      "secure": false,
+      "encrypted": false,
+      "referer": "",
+      "acceptLanguage": "en-US,en;q=0.9",
+      "origin": ""
+    },
+    {
+      "id": 2,
+      "result": "tails",
+      "timestampStart": 1694225171100,
+      "timestampEnd": 1694225173100,
+      "hash": "c9f1a1b9e3dadb9e3f9a2d9b5e8a1f3f9f5d9e2c1b9d3a9e9a1e2c3d4a9b1a2c",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
+      "ip": "192.168.1.11",
+      "geolocation": {
+        "range": [3256783360, 3256784383],
+        "country": "CA",
+        "region": "ON",
+        "city": "Toronto",
+        "ll": [43.6532, -79.3832]
+      },
+      "protocol": "https",
+      "method": "GET",
+      "originalUrl": "/coinflip",
+      "secure": true,
+      "encrypted": true,
+      "referer": "",
+      "acceptLanguage": "en-CA,en;q=0.9",
+      "origin": ""
+    },
+    {
+      "id": 3,
+      "result": "heads",
+      "timestampStart": 1694225271100,
+      "timestampEnd": 1694225273100,
+      "hash": "f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; Pixel 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36",
+      "ip": "192.168.1.12",
+      "geolocation": {
+        "range": [2936783360, 2936784383],
+        "country": "UK",
+        "region": "ENG",
+        "city": "London",
+        "ll": [51.5074, -0.1278]
+      },
+      "protocol": "http",
+      "method": "GET",
+      "originalUrl": "/coinflip",
+      "secure": false,
+      "encrypted": false,
+      "referer": "",
+      "acceptLanguage": "en-GB,en;q=0.9",
+      "origin": ""
+    }
+  ]
+  
